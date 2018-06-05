@@ -1,0 +1,17 @@
+This README will lead you through our matlab code and explain how to use it to reproduce our results.
+
+For most Exercises please simply refer to function named after them.
+It was decided to design a motherfunction for the exercises 10 to 15, which would simplify the analysis of the model with varying parameters.
+This is synthesized in the function "Ex10_to_15", which can be called by simply typing the command:
+
+>> Ex10_to_15
+
+How to interpret it should be self-explanatory ;)
+
+Exercises 16,17,24,25 and 26 all have their individual function. For more information on how to use them please refer to their individual help instructions by entering:
+
+>> help 'namefunction'
+
+A second supplementary function for Exercise 25 was also implemented allowing to change the ε parameter as well as the period of the external cycle T and observe those effects on the histograms.
+
+Simply enter the command >>Histoto and enjoy this wonderful experience!
